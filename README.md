@@ -1,1 +1,1 @@
-# rskallux.github.io
+http://rskallux.github.io
